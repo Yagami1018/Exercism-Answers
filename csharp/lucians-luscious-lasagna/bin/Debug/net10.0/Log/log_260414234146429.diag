@@ -1,0 +1,21 @@
+2026-04-14T23:41:46.4478633+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.9.1+cb5afc3bb9bb01ebd75b57f89e8358b914ee2a49
+2026-04-14T23:41:46.4813148+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-04-14T23:41:46.4830094+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-04-14T23:41:46.4830310+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 23:41:46.394
+2026-04-14T23:41:46.4832152+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 6268
+2026-04-14T23:41:46.4832743+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 10.0.5
+2026-04-14T23:41:46.4833088+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Private.CoreLib.dll
+2026-04-14T23:41:46.4833263+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-04-14T23:41:46.4834810+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\XNAK3\Exercism\csharp\lucians-luscious-lasagna\bin\Debug\net10.0\LuciansLusciousLasagna.dll
+2026-04-14T23:41:46.4838182+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\XNAK3\Exercism\csharp\lucians-luscious-lasagna\bin\Debug\net10.0\Log --client-port 5182'
+2026-04-14T23:41:46.4857410+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-04-14T23:41:46.5310733+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-04-14T23:41:46.5590255+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-04-14T23:41:47.0907043+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.2.2' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-04-14T23:41:47.1143026+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.2.2+728c1dce01 (64-bit .NET 10.0.5)
+2026-04-14T23:41:47.2108147+00:00 xUnit.net INFORMATION   Discovering: LuciansLusciousLasagna
+2026-04-14T23:41:47.2901910+00:00 xUnit.net INFORMATION   Discovered:  LuciansLusciousLasagna
+2026-04-14T23:41:47.3414509+00:00 xUnit.net INFORMATION   Starting:    LuciansLusciousLasagna
+2026-04-14T23:41:47.9853704+00:00 xUnit.net INFORMATION   Finished:    LuciansLusciousLasagna (ID = 'b6af81a725a3e02347c94365491790dea8a8371e09df15c9bc799fb6bfe9a597')
+2026-04-14T23:41:47.9978943+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2026-04-14T23:41:48.0095255+00:00 xUnit.net INFORMATION    LuciansLusciousLasagna  Total: 7, Errors: 0, Failed: 0, Skipped: 0, Not Run: 0, Time: 0.652s

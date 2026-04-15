@@ -1,0 +1,21 @@
+2026-04-15T00:51:23.0074611+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.9.1+cb5afc3bb9bb01ebd75b57f89e8358b914ee2a49
+2026-04-15T00:51:23.0390274+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-04-15T00:51:23.0407890+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-04-15T00:51:23.0408003+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 00:51:22.957
+2026-04-15T00:51:23.0409905+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 8216
+2026-04-15T00:51:23.0410520+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 10.0.5
+2026-04-15T00:51:23.0411089+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Private.CoreLib.dll
+2026-04-15T00:51:23.0411282+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-04-15T00:51:23.0413161+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\XNAK3\Exercism\csharp\cars-assemble\bin\Debug\net10.0\CarsAssemble.dll
+2026-04-15T00:51:23.0416730+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\XNAK3\Exercism\csharp\cars-assemble\bin\Debug\net10.0\Log --client-port 4147'
+2026-04-15T00:51:23.0437486+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-04-15T00:51:23.0913420+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-04-15T00:51:23.1291279+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-04-15T00:51:23.6290745+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.2.2' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-04-15T00:51:23.6502189+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.2.2+728c1dce01 (64-bit .NET 10.0.5)
+2026-04-15T00:51:23.7512339+00:00 xUnit.net INFORMATION   Discovering: CarsAssemble
+2026-04-15T00:51:23.8450924+00:00 xUnit.net INFORMATION   Discovered:  CarsAssemble
+2026-04-15T00:51:23.8957626+00:00 xUnit.net INFORMATION   Starting:    CarsAssemble
+2026-04-15T00:51:24.1796645+00:00 xUnit.net INFORMATION   Finished:    CarsAssemble (ID = '08d946c62dbfadeffe45e354cfc66baa059d37dc5562bc69d653c9475a129a49')
+2026-04-15T00:51:24.1938230+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2026-04-15T00:51:24.2085516+00:00 xUnit.net INFORMATION    CarsAssemble  Total: 18, Errors: 0, Failed: 0, Skipped: 0, Not Run: 0, Time: 0.289s

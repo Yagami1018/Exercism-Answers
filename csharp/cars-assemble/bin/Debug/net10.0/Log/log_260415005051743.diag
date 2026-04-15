@@ -1,0 +1,16 @@
+2026-04-15T00:50:51.7890433+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.9.1+cb5afc3bb9bb01ebd75b57f89e8358b914ee2a49
+2026-04-15T00:50:51.8466471+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-04-15T00:50:51.8516703+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-04-15T00:50:51.8516893+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 00:50:51.677
+2026-04-15T00:50:51.8521990+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 25660
+2026-04-15T00:50:51.8527031+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 10.0.5
+2026-04-15T00:50:51.8527882+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.5\System.Private.CoreLib.dll
+2026-04-15T00:50:51.8528180+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-04-15T00:50:51.8531377+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\XNAK3\Exercism\csharp\cars-assemble\bin\Debug\net10.0\CarsAssemble.dll
+2026-04-15T00:50:51.8538548+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\XNAK3\Exercism\csharp\cars-assemble\bin\Debug\net10.0\Log --client-port 1200'
+2026-04-15T00:50:51.8564715+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-04-15T00:50:51.9585331+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-04-15T00:50:52.0112547+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-04-15T00:50:53.7960324+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.2.2' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-04-15T00:50:53.8326445+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.2.2+728c1dce01 (64-bit .NET 10.0.5)
+2026-04-15T00:50:57.3359996+00:00 Microsoft.Testing.Extensions.Telemetry.AppInsightsProvider WARNING Telemetry task didn't flush after '3', some payload could be lost
